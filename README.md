@@ -1,0 +1,6 @@
+- 👋 Hello, I’m @KinMiu
+- 👀 I’m interested in Frontend Web Developer
+- 🌱 I’m currently learning React and next JS
+- 📫 How to reach me, you can contact me in:
+- my instaram : @kinmi_u
+- my Email : Prasetyoaldi971@gmail.com
