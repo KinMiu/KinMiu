@@ -2,5 +2,5 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning React and next JS
 - 📫 How to reach me, you can contact me in:
-- my instaram : @kinmi_u
+- my instaram : @m_aldi_prasetyo09
 - my Email : prasetyoaldi971@gmail.com
