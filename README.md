@@ -51,5 +51,5 @@ A passionate **Fullstack Web Developer** specializing in building scalable backe
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KinMiu&show_icons=true&theme=tokyonight&count_private=true" alt="KinMiu's GitHub stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=KinMiu&show_icons=true&theme=tokyonight&count_private=true" alt="KinMiu's GitHub stats" />
 </p>
